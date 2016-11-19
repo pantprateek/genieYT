@@ -16,7 +16,7 @@ For suggestions or improvements,please do mail me at prateek1510@gmail.com.
 3. Run node httpserver.js
 
 ##Usage##
-Connect to http://localhost:8080 .You will see the webpage .When you utter a command "play < your request >" ,same video will be played.
+Connect to http://localhost:5000 .You will see the webpage .When you utter a command "play < your request >" ,same video will be played.
 Make sure your microphone is connected and is working well.
 
 You can control your video playback by saying appropriate commands in your microphone.Command is displayed at the bottom of the video window.
